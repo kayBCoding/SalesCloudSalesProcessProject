@@ -38,6 +38,7 @@ This project demonstrates a custom Sales Cloud opportunity health scoring soluti
 - Triggers
 - Salesforce DX
 - Git/GitHub
+- SOQL
 
 ## Test Coverage
 3 unit tests validating:
